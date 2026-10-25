@@ -2,43 +2,46 @@
 2:"/NWT-USA-Demo/_next/static/chunks/0umf92h1sb77c.js"
 3:I[39756,["$2"],"default"]
 4:I[37457,["$2"],"default"]
-b:"/NWT-USA-Demo/_next/static/chunks/1s7l12o8fpucb.js"
-c:"/NWT-USA-Demo/_next/static/chunks/212kc24_4xdah.js"
+b:"/NWT-USA-Demo/_next/static/chunks/0jpys8_ymodax.js"
+c:"/NWT-USA-Demo/_next/static/chunks/1aor3785e-9ip.js"
 d:I[70380,["$b","$c"],"LocaleProvider"]
 e:I[91238,["$b","$c"],"ContactProvider"]
 f:I[4121,["$b","$c"],"Header"]
 10:"/NWT-USA-Demo/_next/static/chunks/3kjpb4h4umlry.js"
 11:I[5125,["$b","$c","$10"],"default"]
 12:I[4121,["$b","$c"],"Footer"]
-19:"/NWT-USA-Demo/_next/static/chunks/0x4qjpr9w2c1z.js"
+19:"/NWT-USA-Demo/_next/static/chunks/0th4ddsxkwa52.js"
 1a:I[38967,["$b","$c","$19"],"default"]
-1e:"ViewportBoundary"
-1f:I[97367,["$2"],"$1e"]
-20:"MetadataBoundary"
-21:I[97367,["$2"],"$20"]
-22:"$Sreact.suspense"
-:HL["/NWT-USA-Demo/_next/static/chunks/1bglnek-rchnu.css","style"]
+1f:"ViewportBoundary"
+20:I[97367,["$2"],"$1f"]
+21:"MetadataBoundary"
+22:I[97367,["$2"],"$21"]
+23:"$Sreact.suspense"
+:HL["/NWT-USA-Demo/_next/static/chunks/0xu-hy54w0v60.css","style"]
+:HL["/NWT-USA-Demo/_next/static/chunks/2ifdwyt0ujvc_.css","style"]
 6:X
 6:C
 7:X
-18:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1a",null,{"m":{"slug":"komplet-kompatto-5030","brand":"KOMPLET","model":"KOMPATTO 5030","category":"scalping","process":"screen","description":"A compact scalping screen for aggregate, topsoil and construction recycling applications. Interchangeable screen media support different separation tasks.","materials":["aggregates","soil","construction"],"mobility":"tracked","mobilityNote":"Compact tracked machine; transport configuration must be confirmed for the selected unit.","specs":[{"group":"Machine","label":"Reference mass","value":"26,455 lb","reference":"12,000 kg · approx. conversion"},{"group":"Screening","label":"Upper screen deck","value":"96.5 × 38.2 in","reference":"2,450 × 970 mm"},{"group":"Screening","label":"Lower screen deck","value":"86.2 × 38.2 in","reference":"2,190 × 970 mm"},{"group":"Screening","label":"Output separation","value":"2 or 3 fractions"}],"source":"https://www.komplet-rubble-recycling.com/kompatto-5030/","assortment":"https://newwaste.kz/komplet/?id=202","datasheet":"https://www.komplet-rubble-recycling.com/wp-content/uploads/2023/03/Kompatto_5030-Data_Sheet-Web.pdf","caveats":["This is a scalping screen, not a crusher.","Inconsistent imperial annotations in source material are omitted; displayed conversions use the metric reference values.","Engine configuration, throughput and suitability for a US installation require confirmation."]}}],["$L1b"],"$L1c"]}],"p":"$@1d","v":null,"s":"$7"}}]]
+18:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1a",null,{"m":{"slug":"komplet-kompatto-5030","brand":"KOMPLET","model":"KOMPATTO 5030","category":"scalping","process":"screen","description":"A compact scalping screen for aggregate, topsoil and construction recycling applications. Interchangeable screen media support different separation tasks.","materials":["aggregates","soil","construction"],"mobility":"tracked","mobilityNote":"Compact tracked machine; transport configuration must be confirmed for the selected unit.","specs":[{"group":"Machine","label":"Reference mass","value":"26,455 lb","reference":"12,000 kg · approx. conversion"},{"group":"Screening","label":"Upper screen deck","value":"96.5 × 38.2 in","reference":"2,450 × 970 mm"},{"group":"Screening","label":"Lower screen deck","value":"86.2 × 38.2 in","reference":"2,190 × 970 mm"},{"group":"Screening","label":"Output separation","value":"2 or 3 fractions"}],"source":"https://www.komplet-rubble-recycling.com/kompatto-5030/","assortment":"https://newwaste.kz/komplet/?id=202","datasheet":"https://www.komplet-rubble-recycling.com/wp-content/uploads/2023/03/Kompatto_5030-Data_Sheet-Web.pdf","caveats":["This is a scalping screen, not a crusher.","Inconsistent imperial annotations in source material are omitted; displayed conversions use the metric reference values.","Engine configuration, throughput and suitability for a US installation require confirmation."]}}],["$L1b","$L1c"],"$L1d"]}],"p":"$@1e","v":null,"s":"$7"}}]]
 16:[["children",{"s":{"n":"slug","t":"d","k":"komplet-kompatto-5030","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@17","v":"$6","s":"$7"},"c":"$Q18"}]]
 14:[["children",{"s":"equipment","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@15","v":"$6","s":"$7"},"c":"$Q16"}]]
-a:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":["about","contact","demo","equipment","faq","finder","privacy"]},"h":196720,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/NWT-USA-Demo/_next/static/chunks/1bglnek-rchnu.css","precedence":"next"}],["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/1s7l12o8fpucb.js","async":true}],["$","script","script-1",{"src":"/NWT-USA-Demo/_next/static/chunks/212kc24_4xdah.js","async":true}]],["$","html",null,{"lang":"ru-RU","children":["$","body",null,{"children":["$","$Ld",null,{"locale":"ru","children":["$","$Le",null,{"children":[["$","$Lf",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{}]]}]}]}]}]]}],"p":"$@13","v":null,"s":"$7"},"c":"$Q14"}]]
+a:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":["about","contact","demo","equipment","faq","finder","privacy"]},"h":196720,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/NWT-USA-Demo/_next/static/chunks/0xu-hy54w0v60.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/NWT-USA-Demo/_next/static/chunks/2ifdwyt0ujvc_.css","precedence":"next"}],["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/0jpys8_ymodax.js","async":true}],["$","script","script-1",{"src":"/NWT-USA-Demo/_next/static/chunks/1aor3785e-9ip.js","async":true}]],["$","html",null,{"lang":"ru-RU","children":["$","body",null,{"children":["$","$Ld",null,{"locale":"ru","children":["$","$Le",null,{"children":[["$","$Lf",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{}]]}]}]}]}]]}],"p":"$@13","v":null,"s":"$7"},"c":"$Q14"}]]
 8:[["children",{"s":"(site)","h":131184,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@9","v":"$6","s":"$7"},"c":"$Qa"}]]
-0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"KOMPLET KOMPATTO 5030 | NWT Equipment Partners"}],["$","meta","1",{"name":"description","content":"Компактный грохот предварительного просева для заполнителей, грунта и переработки строительных отходов. Сменные просеивающие поверхности позволяют решать разные задачи разделения."}],["$","meta","2",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow, noarchive, nosnippet"}]]}]}],null]}],null]}],"p":"$@23","v":null,"s":"$7"}},"a":"$@24","u":"$@25","b":"wtnFdvJqZQEOnBhJD8utq"}
-26:I[97367,["$2"],"OutletBoundary"]
-1b:["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/0x4qjpr9w2c1z.js","async":true}]
-1c:["$","$L26",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"KOMPLET KOMPATTO 5030 | NWT Equipment Partners"}],["$","meta","1",{"name":"description","content":"Компактный грохот предварительного просева для заполнителей, грунта и переработки строительных отходов. Сменные просеивающие поверхности позволяют решать разные задачи разделения."}],["$","meta","2",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow, noarchive, nosnippet"}]]}]}],null]}],null]}],"p":"$@24","v":null,"s":"$7"}},"a":"$@25","u":"$@26","b":"JG1UeOAHewk0zCWqNV35P"}
+27:I[97367,["$2"],"OutletBoundary"]
+:HL["/NWT-USA-Demo/_next/static/chunks/01r5x82pwx5-o.css","style"]
+1b:["$","link","0",{"rel":"stylesheet","href":"/NWT-USA-Demo/_next/static/chunks/01r5x82pwx5-o.css","precedence":"next"}]
+1c:["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/0th4ddsxkwa52.js","async":true}]
+1d:["$","$L27",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]
 7:300
-27:null
-25:true
+28:null
+26:true
 7:C
-24:0
+25:0
 17:"$undefined"
 15:"$undefined"
 13:"$undefined"
 9:"$undefined"
 5:"$undefined"
-23:"$undefined"
-1d:"$undefined"
+24:"$undefined"
+1e:"$undefined"

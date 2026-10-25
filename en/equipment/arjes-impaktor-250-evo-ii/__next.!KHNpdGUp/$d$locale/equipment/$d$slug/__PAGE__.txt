@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:"/NWT-USA-Demo/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/NWT-USA-Demo/_next/static/chunks/1s7l12o8fpucb.js"
+c:"/NWT-USA-Demo/_next/static/chunks/212kc24_4xdah.js"
+d:I[70380,["$b","$c"],"LocaleProvider"]
+e:I[91238,["$b","$c"],"ContactProvider"]
+f:I[4121,["$b","$c"],"Header"]
+10:"/NWT-USA-Demo/_next/static/chunks/3kjpb4h4umlry.js"
+11:I[5125,["$b","$c","$10"],"default"]
+12:I[4121,["$b","$c"],"Footer"]
+19:"/NWT-USA-Demo/_next/static/chunks/0x4qjpr9w2c1z.js"
+1a:I[38967,["$b","$c","$19"],"default"]
+1e:"ViewportBoundary"
+1f:I[97367,["$2"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$2"],"$20"]
+22:"$Sreact.suspense"
+:HL["/NWT-USA-Demo/_next/static/chunks/1bglnek-rchnu.css","style"]
+6:X
+6:C
+7:X
+18:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1a",null,{"m":{"slug":"arjes-impaktor-250-evo-ii","brand":"ARJES","model":"IMPAKTOR 250 EVO II","category":"shredders","process":"shred","description":"A twin-shaft machine for material size reduction. Shaft configuration and feedstock determine the application; review the complete material stream before selecting a unit.","materials":["construction","wood","municipal","tires"],"mobility":"tracked","mobilityNote":"Tracked chassis with hooklift transport configuration.","specs":[{"group":"Machine","label":"Reference mass","value":"29,542 lb","reference":"13,400 kg · approx. conversion"},{"group":"Processing","label":"Hopper volume","value":"2.94 yd³","reference":"2.25 m³ · approx. conversion"},{"group":"Processing","label":"Shaft length","value":"59.1 in","reference":"1,500 mm"},{"group":"Processing","label":"Shaft speed","value":"11–35 rpm"}],"source":"https://arjes-impaktor.de/produkte/impaktor-250-evo-ii/","assortment":"https://arjes-impaktor.kz/products/impaktor-250-evo-ii/","caveats":["EVO II reference configuration only. EVO I and electric variants have different specifications.","Material suitability depends on the shaft configuration. Capacity and US engine compliance require confirmation."]}}],["$L1b"],"$L1c"]}],"p":"$@1d","v":null,"s":"$7"}}]]
+16:[["children",{"s":{"n":"slug","t":"d","k":"arjes-impaktor-250-evo-ii","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@17","v":"$6","s":"$7"},"c":"$Q18"}]]
+14:[["children",{"s":"equipment","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@15","v":"$6","s":"$7"},"c":"$Q16"}]]
+a:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["about","contact","demo","equipment","faq","finder","privacy"]},"h":196720,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/NWT-USA-Demo/_next/static/chunks/1bglnek-rchnu.css","precedence":"next"}],["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/1s7l12o8fpucb.js","async":true}],["$","script","script-1",{"src":"/NWT-USA-Demo/_next/static/chunks/212kc24_4xdah.js","async":true}]],["$","html",null,{"lang":"en-US","children":["$","body",null,{"children":["$","$Ld",null,{"locale":"en","children":["$","$Le",null,{"children":[["$","$Lf",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{}]]}]}]}]}]]}],"p":"$@13","v":null,"s":"$7"},"c":"$Q14"}]]
+8:[["children",{"s":"(site)","h":131184,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@9","v":"$6","s":"$7"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ARJES IMPAKTOR 250 EVO II | NWT Equipment Partners"}],["$","meta","1",{"name":"description","content":"A twin-shaft machine for material size reduction. Shaft configuration and feedstock determine the application; review the complete material stream before selecting a unit."}],["$","meta","2",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow, noarchive, nosnippet"}]]}]}],null]}],null]}],"p":"$@23","v":null,"s":"$7"}},"a":"$@24","u":"$@25","b":"wtnFdvJqZQEOnBhJD8utq"}
+26:I[97367,["$2"],"OutletBoundary"]
+1b:["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/0x4qjpr9w2c1z.js","async":true}]
+1c:["$","$L26",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+7:300
+27:null
+25:true
+7:C
+24:0
+17:"$undefined"
+15:"$undefined"
+13:"$undefined"
+9:"$undefined"
+5:"$undefined"
+23:"$undefined"
+1d:"$undefined"

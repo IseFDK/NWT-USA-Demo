@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"/NWT-USA-Demo/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/NWT-USA-Demo/_next/static/chunks/1s7l12o8fpucb.js"
+c:"/NWT-USA-Demo/_next/static/chunks/212kc24_4xdah.js"
+d:"/NWT-USA-Demo/_next/static/chunks/1zrw8l8-xvf3c.js"
+e:I[41732,["$b","$c","$d"],"default"]
+f:I[97367,["$2"],"OutletBoundary"]
+10:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+18:I[68027,[],"default",1]
+:HL["/NWT-USA-Demo/_next/static/chunks/1bglnek-rchnu.css","style"]
+5:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{}],[["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/1zrw8l8-xvf3c.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":false,"v":null}}]]
+9:[["children",{"s":"finder","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$5"},"c":"$Qa"}]]
+7:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["about","contact","demo","equipment","faq","finder","privacy"]},"h":66064,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/NWT-USA-Demo/_next/static/chunks/1bglnek-rchnu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/1s7l12o8fpucb.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/NWT-USA-Demo/_next/static/chunks/212kc24_4xdah.js","async":true,"nonce":"$undefined"}]],"$L8"]}],"p":false,"v":null},"c":"$Q9"}]]
+6:[["children",{"s":"(site)","h":131600,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$5"},"c":"$Q7"}]]
+0:{"P":null,"c":["","en","finder",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$5"},"c":"$Q6"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$18",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wtnFdvJqZQEOnBhJD8utq"}
+19:I[70380,["$b","$c"],"LocaleProvider"]
+1a:I[91238,["$b","$c"],"ContactProvider"]
+1b:I[4121,["$b","$c"],"Header"]
+1c:"/NWT-USA-Demo/_next/static/chunks/3kjpb4h4umlry.js"
+1d:I[5125,["$b","$c","$1c"],"default"]
+1e:I[4121,["$b","$c"],"Footer"]
+5:C
+8:["$","html",null,{"lang":"en-US","children":["$","body",null,{"children":["$","$L19",null,{"locale":"en","children":["$","$L1a",null,{"children":[["$","$L1b",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L1d",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L1e",null,{}]]}]}]}]}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+17:[["$","title","0",{"children":"Equipment Finder | NWT Equipment Partners"}],["$","meta","1",{"name":"description","content":"Explore equipment for size reduction and material separation. An independent USA market concept for a potential New Waste Technology partnership."}],["$","meta","2",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow, noarchive, nosnippet"}]]

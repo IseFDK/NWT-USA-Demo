@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:"/NWT-USA-Demo/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/NWT-USA-Demo/_next/static/chunks/1s7l12o8fpucb.js"
+c:"/NWT-USA-Demo/_next/static/chunks/212kc24_4xdah.js"
+d:I[70380,["$b","$c"],"LocaleProvider"]
+e:I[91238,["$b","$c"],"ContactProvider"]
+f:I[4121,["$b","$c"],"Header"]
+10:"/NWT-USA-Demo/_next/static/chunks/3kjpb4h4umlry.js"
+11:I[5125,["$b","$c","$10"],"default"]
+12:I[4121,["$b","$c"],"Footer"]
+19:"/NWT-USA-Demo/_next/static/chunks/0x4qjpr9w2c1z.js"
+1a:I[38967,["$b","$c","$19"],"default"]
+1e:"ViewportBoundary"
+1f:I[97367,["$2"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$2"],"$20"]
+22:"$Sreact.suspense"
+:HL["/NWT-USA-Demo/_next/static/chunks/1bglnek-rchnu.css","style"]
+6:X
+6:C
+7:X
+18:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1a",null,{"m":{"slug":"pronar-mpb-20-55","brand":"PRONAR","model":"MPB 20.55","category":"trommel","process":"screen","description":"A towable trommel screen using a 5.5-meter screening drum. Manufacturer-described applications include municipal waste, gravel, wood waste and separation of debris from soil.","materials":["soil","municipal","aggregates","wood"],"mobility":"towable","mobilityNote":"Towable mobile machine; confirm transport requirements for the actual unit and location.","specs":[{"group":"Screening","label":"Drum length × diameter","value":"18.04 × 6.56 ft","reference":"5,500 × 2,000 mm"},{"group":"Screening","label":"Effective sieve area","value":"321 ft²","reference":"29.8 m² · approx. conversion"},{"group":"Processing","label":"Hopper capacity","value":"7.85 yd³","reference":"6 m³ · approx. conversion"},{"group":"Machine","label":"Reference mass","value":"Approx. 35,274 lb","reference":"Approx. 16,000 kg"},{"group":"Screening","label":"Maximum drum speed","value":"30 rpm"}],"source":"https://pronar-recycling.com/en/products/trommel-screens/mpb-20-55/","assortment":"https://newwaste.kz/","caveats":["Base model only. The g, gh, gh ex and hybrid variants are distinct.","Mass depends on the individual specification. An implausible overall length in the source is omitted rather than corrected without evidence."]}}],["$L1b"],"$L1c"]}],"p":"$@1d","v":null,"s":"$7"}}]]
+16:[["children",{"s":{"n":"slug","t":"d","k":"pronar-mpb-20-55","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@17","v":"$6","s":"$7"},"c":"$Q18"}]]
+14:[["children",{"s":"equipment","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@15","v":"$6","s":"$7"},"c":"$Q16"}]]
+a:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["about","contact","demo","equipment","faq","finder","privacy"]},"h":196720,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/NWT-USA-Demo/_next/static/chunks/1bglnek-rchnu.css","precedence":"next"}],["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/1s7l12o8fpucb.js","async":true}],["$","script","script-1",{"src":"/NWT-USA-Demo/_next/static/chunks/212kc24_4xdah.js","async":true}]],["$","html",null,{"lang":"en-US","children":["$","body",null,{"children":["$","$Ld",null,{"locale":"en","children":["$","$Le",null,{"children":[["$","$Lf",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{}]]}]}]}]}]]}],"p":"$@13","v":null,"s":"$7"},"c":"$Q14"}]]
+8:[["children",{"s":"(site)","h":131184,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@9","v":"$6","s":"$7"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"PRONAR MPB 20.55 | NWT Equipment Partners"}],["$","meta","1",{"name":"description","content":"A towable trommel screen using a 5.5-meter screening drum. Manufacturer-described applications include municipal waste, gravel, wood waste and separation of debris from soil."}],["$","meta","2",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow, noarchive, nosnippet"}]]}]}],null]}],null]}],"p":"$@23","v":null,"s":"$7"}},"a":"$@24","u":"$@25","b":"wtnFdvJqZQEOnBhJD8utq"}
+26:I[97367,["$2"],"OutletBoundary"]
+1b:["$","script","script-0",{"src":"/NWT-USA-Demo/_next/static/chunks/0x4qjpr9w2c1z.js","async":true}]
+1c:["$","$L26",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
+7:300
+27:null
+25:true
+7:C
+24:0
+17:"$undefined"
+15:"$undefined"
+13:"$undefined"
+9:"$undefined"
+5:"$undefined"
+23:"$undefined"
+1d:"$undefined"

@@ -1,6 +1,6 @@
 :HL["/NWT-USA-Demo/_next/static/chunks/01dgl7nm4km5w.css","style"]
 :HL["/NWT-USA-Demo/_next/static/chunks/2wcbrma-ohp7s.css","style"]
-:HL["/NWT-USA-Demo/_next/static/chunks/140191xoh0rjd.css","style"]
+:HL["/NWT-USA-Demo/_next/static/chunks/3sttxc1pla36k.css","style"]
 :HL["/NWT-USA-Demo/_next/static/chunks/0c9vgggqjkiw0.css","style"]
 :HL["/NWT-USA-Demo/_next/static/chunks/01r5x82pwx5-o.css","style"]
 5:[["children",{"s":"__PAGE__","h":160}]]
@@ -8,4 +8,4 @@
 3:[["children",{"s":"equipment","h":131168,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"locale","t":"d","k":"ru","s":["about","contact","demo","equipment","faq","finder","privacy"]},"h":196720,"c":"$Q3"}]]
 1:[["children",{"s":"(site)","h":131184,"c":"$Q2"}]]
-0:{"b":"S51Aite999wjJxrWEfEng","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"mrXZExnYfBHPJbpnzr5gv","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
